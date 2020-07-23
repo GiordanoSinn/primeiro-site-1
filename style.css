@@ -1,0 +1,43 @@
+body{
+    background-color: blue;
+    font-family: Arial;
+}
+
+h1{
+    color: white;
+    
+}
+
+p{
+    color: white;
+}
+
+#img-pikachu{
+    height: 450px;
+}
+
+#choque{
+    background-color: #817195;
+    width: 350px;
+    text-align: center;
+    border: 5px red solid;
+    padding: 30px;
+    margin: 60px;
+    padding-bottom: 90px;
+    margin-left: 200px;
+    border-top: 20px white solid;
+    
+
+}
+
+#investida{
+    background-color: orangered;
+}
+
+#calda{
+    background-color: grey;
+}
+
+.aumentar{
+    font-size: 40px;
+}
