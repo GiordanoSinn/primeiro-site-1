@@ -1,43 +1,55 @@
 body{
-    background-color: blue;
+    background-color: #00CBFF;
     font-family: Arial;
+    background: url("fundo.jpg");
 }
 
 h1{
     color: white;
+    font-size: 70px;
+    margin-top: 10px;
+    
     
 }
 
 p{
     color: white;
+    font-size: 40px;
+    margin: 0px;
+    padding: 10px;
+}
+
+a{
+    font-weight: bolder;
+    color: black;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 4px;
 }
 
 #img-pikachu{
-    height: 450px;
+    
 }
 
 #choque{
-    background-color: #817195;
-    width: 350px;
-    text-align: center;
-    border: 5px red solid;
-    padding: 30px;
-    margin: 60px;
-    padding-bottom: 90px;
-    margin-left: 200px;
-    border-top: 20px white solid;
-    
-
+    background-color: rgba(187, 184, 0, 0.65);
+   
 }
 
 #investida{
-    background-color: orangered;
+    background-color: rgba(248, 92, 2, 0.65);
 }
 
 #calda{
-    background-color: grey;
+    background-color: rgba(0, 0, 0, 0.65);
 }
 
 .aumentar{
-    font-size: 40px;
+    font-size: 30px;
+}
+
+.box{
+    margin-top: 30px;
+    background-color: rgba(0, 0, 0, 0.424);
+    width: 400px;
+    padding: 20px;
 }
